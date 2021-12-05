@@ -3,4 +3,4 @@ python tasks given by IIT-M, guvi advanced programming and masters in data scien
 
 Task-3 : it includes 100 numpy tasks
 
-Task-4 : It includes small tasks based on data wrangling techniques
+Task-4 : It includes small tasks based on data wrangling techniques. reached, needs improvement,exceeed expectation, unsatisfactory are the output files(part of the tasks).
